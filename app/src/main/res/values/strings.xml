@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Devs-Base TWRP</string>
+    <string name="large_text">
+        "This app will install the official Devs-Base TWRP Theme. The theme was developed by G.M.L. in coordination with the Devs-Base team.\n\n"
+
+        "To install/uninstall this theme, simply tap the floating action button and then reboot into TWRP. To prevent having to request root access, we will not offer the ability to reboot into the recovery.
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
